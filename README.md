@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DavidTomar
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Special Projects
+- 📫 You can reach me on Instagram - @dtomar21 or Twitter - @david_tomar
